@@ -15,7 +15,7 @@
 <div style="width: 100%; height: 30px"></div>
 <footer class="footer">
   Copyright &copy; 2024
-  <a href="//github.com/fall-windl">CodePath</a>
+  <a href="//github.com/fall-windl/CodePathClub">CodePath</a>
   . All Rights Reserved.
 </footer>
 
