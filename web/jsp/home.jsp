@@ -12,8 +12,7 @@
 </head>
 <body>
 <%@include file="header.jsp"%>
-
-
+<%@include file="countdown.jsp"%>
 
 <%@include file="footer.jsp"%>
 </body>
